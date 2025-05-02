@@ -45,15 +45,7 @@ body {
     border-radius: 6px;
   }
   
-  footer {
-    background-color: #f0f0f0;
-    text-align: center;
-    padding: 1rem;
-    font-size: 0.9rem;
-    color: #666;
-    margin-top: 2rem;
-  }
-
+ 
   .about {
     background-color: #ffffff;
     padding: 1.5rem;
@@ -68,6 +60,15 @@ body {
     border-radius: 8px;
     margin-top: 2rem;
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.05);
+  }
+  
+  .footer {
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 3rem;
+    border-radius: 8px;
   }
   
   
