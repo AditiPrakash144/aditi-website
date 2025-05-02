@@ -62,4 +62,12 @@ body {
     box-shadow: 0 0 8px rgba(0,0,0,0.05);
   }
   
+  .contact {
+    background-color: #f0f8ff;
+    padding: 1.5rem;
+    border-radius: 8px;
+    margin-top: 2rem;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.05);
+  }
+  
   
